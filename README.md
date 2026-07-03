@@ -1,7 +1,7 @@
 <img width=100% title="Greeting Words" alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=THANK-YOU-FOR-VISTING🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20,%20👋%20I'm%20Senior%20Software%20Engineer%20&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20,%20👋%20I'm%20Senior%20Engineer%20&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
